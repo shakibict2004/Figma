@@ -1,0 +1,40 @@
+.ban_btn button{
+    background-color: #EA580C;
+    border: none;
+    margin-top: 20px;
+    transition: 1.5s;
+}
+.ban_btn button:hover{
+    transform: scale(1.1);
+    background-color: black;
+    color: #fff;
+}
+.ban_img img{
+    width: 100%;
+    padding-top: 90px;
+    transition: 2.2s;
+}
+.ban_img img:hover{
+    transform: scale(1.2);
+}
+.ban_text{
+    padding-top: 150px;
+}
+#banner{
+    background-color: hsl(21, 57%, 68%);
+    padding-bottom: 60px;
+}
+.ban_text h4{
+    font-size: 20px;
+    font-weight: 400;
+}
+.ban_text h2{
+    font-size: 36px;
+    font-weight: 600;
+    padding-top: 15px;
+}
+.ban_text p{
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 15px;
+}

@@ -1,0 +1,40 @@
+#working{
+    padding-top: 100px;
+}
+.all{
+    height: 155px;
+    width: 600px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    margin: 20px 0;
+    transition: 1.5s;
+}
+.all:hover{
+    background-color: yellow;
+    transform: scale(1.1);
+}
+.all img{
+    padding: 28px 28px;
+}
+.all h4{
+    font-size: 30px;
+    font-weight: 600;
+    padding: 48px 40px;
+}
+.work{
+    text-align: center;
+}
+.work h2{
+    font-size: 48px;
+    font-weight: 600;
+}
+.work p{
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 10px;
+}
+.rain img{
+    width: 100%;
+    padding: 15px 60px;
+    border-radius: 40px;
+}

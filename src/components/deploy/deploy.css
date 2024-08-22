@@ -1,0 +1,28 @@
+.ddd{
+    height: 135px;
+    width: 350px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    transition: 1.2s;
+}
+.ddd:hover{
+    background-color: yellow;
+    transform: scale(1.1);
+}
+#deploy{
+    padding-top: 100px;
+}
+.ddd img{
+    padding-top: 50px;
+    padding-left: 35px;
+}
+.ddd h2 {
+font-size: 20px;
+font-weight: 500px;
+padding-top: 30px;
+}
+.ddd h4{
+    font-size: 16px;
+    font-weight: 500px;
+    padding-top: 7px;
+}

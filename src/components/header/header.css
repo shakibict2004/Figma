@@ -1,0 +1,22 @@
+.btn button{
+    background-color: #EA580C;
+    border: none;
+    transition: 1.2s;
+}
+.btn button:hover{
+    transform: scale(1.1);
+    background-color: black;
+    color: #fff;
+}
+.mx-auto{
+    padding: 10px 40px;
+}
+.nav-link {
+    padding: 0 30px !important;
+}
+.nav-link:hover {
+    color: #EA580C;
+}
+.manu_bg{
+    background-color: hsl(21, 57%, 68%);
+}
